@@ -24,7 +24,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <a href="https://explorer-lab-ten.vercel.app/">Visualizar</a>
+  <a href="https://explorer-lab-ten.vercel.app/" target="_blank">Visualizar</a>
 </p>
 
 <br>
