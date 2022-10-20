@@ -21,6 +21,14 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://explorer-lab-ten.vercel.app/">Visualizar</a>
+</p>
+
+<br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
